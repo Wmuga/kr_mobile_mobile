@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wifi</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textMac">MAC: %1$s</string>
+    <string name="textPerson">Person: %1$s</string>
+    <string name="textDatetime">Pass at: %1$s</string>
+    <string name="btnServerRandom">Сервер: проверочный</string>
+    <string name="btnServerApi">Сервер: API</string>
+    <string name="btnSourceRandom">Источник: ГПСЧ</string>
+    <string name="btnSourceWifi">Источник: Сеть</string>
+    <string name="key">PUT PUBLIC KEY HERE</string>
+    <string name="btnAll">Все</string>
+    <string name="btnToday">сегодня</string>
+    <string name="btnOptions">Настройки</string>
+</resources>
